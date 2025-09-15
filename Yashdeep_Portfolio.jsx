@@ -230,7 +230,7 @@ export default function Portfolio() {
             highlighted in resume achievements for innovation in mental health analytics.
           </p>
           <a
-            href="https://drive.google.com/file/d/16yiFRACisMZ8BzxZ7v6eCBt9NwSuiAUc/view"
+            href="https://drive.google.com/file/d/1Xb0bv5O6P0Oh1i4N5NudKpik7dcSFtal/view"
             target="_blank"
             rel="noreferrer"
             className="mt-4 inline-block text-cyan-300 hover:underline"
