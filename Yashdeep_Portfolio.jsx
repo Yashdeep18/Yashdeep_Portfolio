@@ -155,9 +155,9 @@ export default function Portfolio() {
             <p className="text-gray-400">Greater Noida, UP , India | Current</p>
             <p className="mt-2 text-gray-300">
               Managed end-to-end operations including sales, inventory, pricing, and vendor coordination.
-•             Built and maintained Excel MIS dashboards to track KPIs, revenue trends, and business performance.
-•             Conducted pricing, discount, and revenue analysis to optimize profitability and support decision-making.
-•             Generated business reports and provided actionable insights to improve operational efficiency. 
+              Built and maintained Excel MIS dashboards to track KPIs, revenue trends, and business performance.
+              Conducted pricing, discount, and revenue analysis to optimize profitability and support decision-making.
+              Generated business reports and provided actionable insights to improve operational efficiency. 
             </p>
           </div>
           <div className="bg-gray-800 p-6 rounded-2xl shadow-lg">
